@@ -12,7 +12,7 @@
 #define KScreenWidth [UIScreen mainScreen].bounds.size.width
 #define KScreenHeight [UIScreen mainScreen].bounds.size.height
 
-
+//222
 @interface BannerView ()<UIScrollViewDelegate>
 @property (nonatomic, weak) id<BannerViewDelegate> delegate;
 
